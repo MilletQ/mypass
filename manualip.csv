@@ -1,58 +1,45 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-158.101.24.17,443,TRUE,LAX,North America,Los Angeles,267 ms,3.6
-129.146.254.39,443,TRUE,LAX,North America,Los Angeles,237 ms,3.5
-140.238.158.238,8080,TRUE,YYZ,North America,Toronto,238 ms,2.4
-204.110.220.192,80,TRUE,SJC,North America,San Jose,178 ms,8.7
-204.110.221.36,80,TRUE,YUL,North America,Montréal,278 ms,5.3
-204.110.223.177,80,TRUE,IAD,North America,Ashburn,248 ms,4.8
-152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,245 ms,5051 kB/s
-152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,262 ms,5039 kB/s
+129.146.254.39,443,TRUE,LAX,North America,Los Angeles,237 ms,3500 kB/s
 129.146.46.164,443,TRUE,LAX,North America,Los Angeles,250 ms,4833 kB/s
-152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,255 ms,4412 kB/s
-64.181.240.173,443,TRUE,SJC,North America,San Jose,208 ms,4306 kB/s
-152.70.155.147,443,TRUE,LAX,North America,Los Angeles,255 ms,4021 kB/s
-152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,251 ms,3749 kB/s
-152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,250 ms,3509 kB/s
-132.226.31.178,443,TRUE,LAX,North America,Los Angeles,254 ms,3186 kB/s
-40.233.70.7,8443,TRUE,YYZ,North America,Toronto,246 ms,2223 kB/s
-204.110.220.61,80,TRUE,SJC,North America,San Jose,194 ms,9069 kB/s
-35.167.93.200,443,TRUE,PDX,North America,Portland,200 ms,6715 kB/s
-204.110.221.36,80,TRUE,YUL,North America,Montréal,251 ms,4364 kB/s
-3.101.110.90,80,TRUE,SJC,North America,San Jose,167 ms,4221 kB/s
-204.110.221.20,80,TRUE,YUL,North America,Montréal,254 ms,4028 kB/s
-204.110.221.1,80,TRUE,YUL,North America,Montréal,257 ms,3263 kB/s
-204.110.221.69,80,TRUE,YUL,North America,Montréal,249 ms,2514 kB/s
-152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,249 ms,7074 kB/s
-152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,255 ms,6684 kB/s
-152.70.155.147,443,TRUE,LAX,North America,Los Angeles,252 ms,6262 kB/s
-64.181.240.173,443,TRUE,SJC,North America,San Jose,196 ms,6252 kB/s
-129.146.46.164,443,TRUE,LAX,North America,Los Angeles,250 ms,5819 kB/s
-152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,254 ms,5456 kB/s
-152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,252 ms,5080 kB/s
-152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,266 ms,4604 kB/s
-150.230.34.116,443,TRUE,SJC,North America,San Jose,184 ms,3976 kB/s
-40.233.70.7,8443,TRUE,YYZ,North America,Toronto,245 ms,3391 kB/s
-129.146.254.39,443,TRUE,LAX,North America,Los Angeles,237 ms,3032 kB/s
-164.152.26.70,2052,TRUE,ORD,North America,Chicago,244 ms,3029 kB/s
-158.101.24.17,443,TRUE,LAX,North America,Los Angeles,275 ms,3007 kB/s
-132.226.31.178,443,TRUE,LAX,North America,Los Angeles,246 ms,2898 kB/s
-164.152.26.70,2086,TRUE,ORD,North America,Chicago,244 ms,2745 kB/s
-3.101.110.90,80,TRUE,SJC,North America,San Jose,167 ms,8354 kB/s
-204.110.221.20,80,TRUE,YUL,North America,Montréal,252 ms,5264 kB/s
-129.146.46.164,443,TRUE,LAX,North America,Los Angeles,258 ms,7147 kB/s
-152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,265 ms,5809 kB/s
-152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,271 ms,5296 kB/s
-152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,250 ms,4889 kB/s
-64.181.240.173,443,TRUE,SJC,North America,San Jose,205 ms,4871 kB/s
-152.70.155.147,443,TRUE,LAX,North America,Los Angeles,250 ms,4685 kB/s
-152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,252 ms,4521 kB/s
-152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,251 ms,4201 kB/s
-132.226.31.178,443,TRUE,LAX,North America,Los Angeles,239 ms,3324 kB/s
-40.233.70.7,8443,TRUE,YYZ,North America,Toronto,236 ms,2534 kB/s
-129.146.254.39,443,TRUE,LAX,North America,Los Angeles,239 ms,2491 kB/s
 129.80.123.71,443,TRUE,IAD,North America,Ashburn,254 ms,2393 kB/s
-164.152.26.70,2086,TRUE,ORD,North America,Chicago,261 ms,2335 kB/s
+132.226.31.178,443,TRUE,LAX,North America,Los Angeles,254 ms,3186 kB/s
+140.238.158.238,8080,TRUE,YYZ,North America,Toronto,238 ms,2400 kB/s
+150.230.34.116,443,TRUE,SJC,North America,San Jose,184 ms,3976 kB/s
+152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,245 ms,5051 kB/s
+158.101.24.17,443,TRUE,LAX,North America,Los Angeles,267 ms,3600 kB/s
+164.152.26.70,2052,TRUE,ORD,North America,Chicago,244 ms,3029 kB/s
 204.110.220.169,80,TRUE,SJC,North America,San Jose,192 ms,9216 kB/s
-3.101.110.90,80,TRUE,SJC,North America,San Jose,168 ms,8418 kB/s
+204.110.220.192,80,TRUE,SJC,North America,San Jose,178 ms,8700 kB/s
+204.110.220.61,80,TRUE,SJC,North America,San Jose,194 ms,9069 kB/s
+204.110.221.1,80,TRUE,YUL,North America,Montréal,257 ms,3263 kB/s
+204.110.221.20,80,TRUE,YUL,North America,Montréal,254 ms,4028 kB/s
+204.110.221.20,80,TRUE,YUL,North America,Montréal,252 ms,5264 kB/s
 204.110.221.251,80,TRUE,YUL,North America,Montréal,256 ms,3205 kB/s
-35.167.93.200,443,TRUE,PDX,North America,Portland,223 ms,3164 kB/s
+204.110.221.36,80,TRUE,YUL,North America,Montréal,251 ms,4364 kB/s
+204.110.221.69,80,TRUE,YUL,North America,Montréal,249 ms,2514 kB/s
+204.110.223.177,80,TRUE,IAD,North America,Ashburn,248 ms,4800 kB/s
+3.101.110.90,80,TRUE,SJC,North America,San Jose,167 ms,4221 kB/s
+35.167.93.200,443,TRUE,PDX,North America,Portland,200 ms,6715 kB/s
+40.233.70.7,8443,TRUE,YYZ,North America,Toronto,246 ms,2223 kB/s
+64.181.240.173,443,TRUE,SJC,North America,San Jose,208 ms,4306 kB/s
+43.156.253.94,443,TRUE,SIN,Asia Pacific,Singapore,537 ms,5610 kB/s
+117.123.207.117,50000,TRUE,ICN,Asia Pacific,Seoul,813 ms,5320 kB/s
+217.20.241.119,15111,TRUE,LAX,North America,Los Angeles,854 ms,2910 kB/s
+212.103.62.244,19560,TRUE,LAX,North America,Los Angeles,875 ms,3970 kB/s
+165.154.36.49,34237,TRUE,LAX,North America,Los Angeles,943 ms,3320 kB/s
+154.9.241.153,38808,TRUE,LAX,North America,Los Angeles,943 ms,3390 kB/s
+66.154.116.165,443,TRUE,LAX,North America,Los Angeles,966 ms,3190 kB/s
+107.172.103.195,16002,TRUE,LAX,North America,Los Angeles,978 ms,5810 kB/s
+152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,1040 ms,6460 kB/s
+152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,1041 ms,5750 kB/s
+91.149.239.122,443,TRUE,LAX,North America,Los Angeles,1049 ms,9720 kB/s
+206.223.84.77,8443,TRUE,LAX,North America,Los Angeles,1049 ms,4650 kB/s
+164.152.26.70,2052,TRUE,LAX,North America,Los Angeles,1051 ms,4200 kB/s
+152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,1059 ms,5720 kB/s
+20.33.30.36,2083,TRUE,LAX,North America,Los Angeles,1157 ms,3630 kB/s
+35.167.93.200,443,TRUE,LAX,North America,Los Angeles,1219 ms,6430 kB/s
+40.233.70.7,8443,TRUE,LAX,North America,Los Angeles,1239 ms,3170 kB/s
+204.110.223.177,80,TRUE,LAX,North America,Los Angeles,1264 ms,3640 kB/s
+164.152.26.70,2086,TRUE,LAX,North America,Los Angeles,1229 ms,3960 kB/s
+63.237.48.111,443,TRUE,LAX,North America,Los Angeles,1420 ms,6700 kB/s
+13.125.218.78,443,TRUE,ICN,Asia Pacific,Seoul,971 ms,5670 kB/s

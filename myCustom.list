@@ -1,0 +1,10 @@
+#我的自定义列表
+
+#Clash规则格式：
+#DOMAIN,www.google.com 将 www.google.com 路由到
+#DOMAIN-SUFFIX,youtube.com 将任何以 youtube.com 结尾的域名路由到
+#DOMAIN-KEYWORD,google 将任何包含 google 关键字的域名路由到
+
+DOMAIN,blog.090227.xyz
+DOMAIN,chinaip.090227.xyz
+DOMAIN,blog.cmliussss.com
